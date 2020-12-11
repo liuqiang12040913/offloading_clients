@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f490a4e6-7250-436c-8761-50ade064fb3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/io/antmedia/android/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/io/antmedia/android/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/io/antmedia/android/liveVideoPlayer/LiveVideoPlayerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/io/antmedia/android/liveVideoPlayer/LiveVideoPlayerActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_live_video_broadcaster.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_live_video_broadcaster.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_live_video_player.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_live_video_player.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liveVideoBroadcasterSDK/src/main/java/io/antmedia/android/broadcaster/LiveVideoBroadcaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/liveVideoBroadcasterSDK/src/main/java/io/antmedia/android/broadcaster/LiveVideoBroadcaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liveVideoBroadcasterSDK/src/main/java/io/antmedia/android/broadcaster/encoder/CameraSurfaceRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/liveVideoBroadcasterSDK/src/main/java/io/antmedia/android/broadcaster/encoder/CameraSurfaceRenderer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[c9476a54]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l7OfmgMol46NQIMLcXOyg1TZ8j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ResourceManagerPrefKey.ResourceType" value="MIPMAP" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-view/home/qiang/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer/r2.3.1/b554428e188f973fc2992723c90695f079d88ffb/exoplayer-r2.3.1-sources.jar!/com/google/android/exoplayer2/ui/PlaybackControlView.java_SELECTED" value="PlaybackControlView" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1606944862908" />
+    <property name="multi-representation-preview/home/qiang/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer/r2.3.1/b554428e188f973fc2992723c90695f079d88ffb/exoplayer-r2.3.1-sources.jar!/com/google/android/exoplayer2/ui/PlaybackControlView.java_selected" value="Custom views" />
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiveApp" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="LiveVideoBroadcaster.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f490a4e6-7250-436c-8761-50ade064fb3e" name="Default Changelist" comment="" />
+      <created>1606944768314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606944768314</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="975" y="334" width="666" height="797" key="#LiveApp" timestamp="1606945422267">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="975" y="334" width="666" height="797" key="#LiveApp/67.27.2493.1413@67.27.2493.1413" timestamp="1606945422267" />
+    <state x="771" y="390" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606945049688">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="771" y="390" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1606945049688" />
+    <state x="1640" y="555" key="#xdebugger.evaluate" timestamp="1607659760106">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="1640" y="555" key="#xdebugger.evaluate/67.27.2493.1413@67.27.2493.1413" timestamp="1607659760106" />
+    <state width="2447" height="396" key="GridCell.Tab.0.bottom" timestamp="1607703195921">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2447" height="396" key="GridCell.Tab.0.bottom/67.27.2493.1413@67.27.2493.1413" timestamp="1607703195921" />
+    <state width="2447" height="396" key="GridCell.Tab.0.center" timestamp="1607703195920">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2447" height="396" key="GridCell.Tab.0.center/67.27.2493.1413@67.27.2493.1413" timestamp="1607703195920" />
+    <state width="2447" height="396" key="GridCell.Tab.0.left" timestamp="1607703195920">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2447" height="396" key="GridCell.Tab.0.left/67.27.2493.1413@67.27.2493.1413" timestamp="1607703195920" />
+    <state width="2447" height="396" key="GridCell.Tab.0.right" timestamp="1607703195920">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2447" height="396" key="GridCell.Tab.0.right/67.27.2493.1413@67.27.2493.1413" timestamp="1607703195920" />
+    <state width="1191" height="224" key="GridCell.Tab.1.bottom" timestamp="1607661446257">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1191" height="224" key="GridCell.Tab.1.bottom/67.27.2493.1413@67.27.2493.1413" timestamp="1607661446257" />
+    <state width="1191" height="224" key="GridCell.Tab.1.center" timestamp="1607661446257">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1191" height="224" key="GridCell.Tab.1.center/67.27.2493.1413@67.27.2493.1413" timestamp="1607661446257" />
+    <state width="1191" height="224" key="GridCell.Tab.1.left" timestamp="1607661446256">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1191" height="224" key="GridCell.Tab.1.left/67.27.2493.1413@67.27.2493.1413" timestamp="1607661446256" />
+    <state width="1191" height="224" key="GridCell.Tab.1.right" timestamp="1607661446257">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1191" height="224" key="GridCell.Tab.1.right/67.27.2493.1413@67.27.2493.1413" timestamp="1607661446257" />
+    <state x="802" y="367" key="SettingsEditor" timestamp="1606946267491">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="802" y="367" key="SettingsEditor/67.27.2493.1413@67.27.2493.1413" timestamp="1606946267491" />
+    <state x="1189" y="415" width="432" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607648270676">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="1189" y="415" width="432" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.2493.1413@67.27.2493.1413" timestamp="1607648270676" />
+    <state x="1002" y="341" width="816" height="783" key="find.popup" timestamp="1607702566349">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="1002" y="341" width="816" height="783" key="find.popup/67.27.2493.1413@67.27.2493.1413" timestamp="1607702566349" />
+    <state x="976" y="347" width="672" height="678" key="search.everywhere.popup" timestamp="1606946252328">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="976" y="347" width="672" height="678" key="search.everywhere.popup/67.27.2493.1413@67.27.2493.1413" timestamp="1606946252328" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/antmedia/android/liveVideoPlayer/LiveVideoPlayerActivity.java</url>
+          <line>200</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/antmedia/android/liveVideoPlayer/LiveVideoPlayerActivity.java</url>
+          <line>202</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/antmedia/android/liveVideoPlayer/LiveVideoPlayerActivity.java</url>
+          <line>228</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/antmedia/android/liveVideoPlayer/LiveVideoPlayerActivity.java</url>
+          <line>206</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
